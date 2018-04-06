@@ -1,6 +1,7 @@
 # basicwebsite
 
-After clone project
+After clone project if error "bootstarp/vendor"
+
 Open terminal
 1.composer dump-autoload 
 to generate autoload.php file again in /vendor directory
@@ -15,3 +16,8 @@ if error "Whoops, looks like something went wrong."
 php artisan key:generate
 
 and then run your project. It's all done.
+
+
+
+this file learning from 
+projects-in-laravel-learn-laravel-building-10-projects
