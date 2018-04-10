@@ -19,9 +19,8 @@ in your project root folder
 php artisan key:generate
 
 and then run your project. It's all done.
-
-----
 this file learning from 
 projects-in-laravel-learn-laravel-building-10-projects
+----
 
 
