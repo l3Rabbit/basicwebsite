@@ -1,4 +1,4 @@
-# basicwebsite
+# How to use
 
 ## clone git to install 
 After clone project if error "bootstarp/vendor"
