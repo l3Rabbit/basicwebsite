@@ -3,8 +3,10 @@
 After clone project if error "bootstarp/vendor"
 
 Open terminal
+
 1.composer dump-autoload 
 to generate autoload.php file again in /vendor directory
+
 2.composer update 
 in your project root folder
 
